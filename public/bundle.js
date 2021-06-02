@@ -26,7 +26,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "wizard": () => (/* binding */ wizard)
 /* harmony export */ });
-var wizard = 'ravalynn change';
+var wizard = 'ravalynn change change2';
 
 /***/ })
 
@@ -122,4 +122,4 @@ console.log(newObj);
 
 /******/ })()
 ;
-//# sourceMappingURL=main.js.map
+//# sourceMappingURL=bundle.js.map
