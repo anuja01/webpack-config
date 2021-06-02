@@ -1,4 +1,5 @@
 module.exports = {
+    mode: 'development',
     module: {
         rules: [
             {
@@ -10,5 +11,6 @@ module.exports = {
                 }
             }
         ]
-    }
+    },
+    devtool: 'source-map' // this will show relavent file which has logs (without this console will show main.js as source file)
 }
