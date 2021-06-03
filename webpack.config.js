@@ -1,7 +1,8 @@
 const path = require('path')
 
+const mode = process.env.NODE_ENV === 'production' ? 'production' : 'development' // can set process.env.NODE_ENV in build command
 module.exports = {
-    mode: 'development',
+    mode: mode,
 
     entry: './src/index.js',
     output: {
