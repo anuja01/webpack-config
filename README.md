@@ -6,6 +6,7 @@ Webpack goes through your package and creates what it calls a **dependency graph
 Video tutorials   
 https://www.youtube.com/watch?v=lFjinlwpcHY   
 https://www.youtube.com/watch?v=X1nxTjVDYdQ   
+https://www.youtube.com/watch?v=TOb1c39m64A   
 
 installing webpack - `npm i -D webpack webpack-cli`   
 bundle using webpack - `npx webpack` // this will create optimised single file which can be used in `index.html`   
