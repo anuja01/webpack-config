@@ -1,7 +1,7 @@
 # webpack-config
 Simplify webpack configurations   
 Intro   
-Webpack goes through your package and creates what it calls a **dependency graph** which consists of various modules which your webapp would require to function as expected. Then, depending on this graph, it creates a new package which consists of the very bare minimum number of files required, often just a single bundle.js file which can be plugged in to the html file easily and used for the application.   
+Webpack examins all the modules in the pplication and creates what it calls a **dependency graph** which consists of various modules which your webapp would require to function as expected. Then, depending on this graph, it creates a new package which consists of the very bare minimum number of files required, often just a single bundle.js file which can be plugged in to the html file easily and used for the application.   
 
 Video tutorials   
 https://www.youtube.com/watch?v=lFjinlwpcHY   
